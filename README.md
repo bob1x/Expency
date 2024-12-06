@@ -54,7 +54,7 @@ Setup Instructions
 Clone this repository:
 bash
 Copy code
-git clone https://github.com/your-username/expense-tracker-app.git
+git clone
 Open the project in Android Studio.
 Add the google-services.json file to the app/ directory for Firebase integration.
 Sync Gradle and build the project.
