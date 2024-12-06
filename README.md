@@ -1,4 +1,4 @@
-Expensy 
+Expency 
 
 an intuitive and user-friendly Android application to track your expenses, view spending trends, and manage your financial activities efficiently.
 
