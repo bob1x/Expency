@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Expency</string>
+    <string name="default_web_client_id">632735779130-kscp3qn57kcqko9b3dj8spplk1fr54m3.apps.googleusercontent.com</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string-array name="expense_categories">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Shopping</item>
+        <item>Health</item>
+    </string-array>
+</resources>
+
+

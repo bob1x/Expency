@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632735779130",
+    "project_id": "expency-7b398",
+    "storage_bucket": "expency-7b398.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632735779130:android:0a33651f38dfa762046803",
+        "android_client_info": {
+          "package_name": "com.expency"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6PP_JiM34AcUNjAK14g0sqkxZrXbpqEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
